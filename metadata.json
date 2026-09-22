@@ -1,0 +1,6 @@
+{
+  "name": "LMS & CBT ANBK SMPN 1 Wanaraya",
+  "description": "Aplikasi LMS dan Ujian Online CBT ANBK Penilaian Tengah Semester (PTS) SMP Negeri 1 Wanaraya Tahun Ajaran 2026/2027 dengan integrasi Google Spreadsheet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
